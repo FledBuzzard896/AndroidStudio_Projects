@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лабораторка 2</string>
+    <string name="student">Солодов Антон 3ИСИП-123</string>
+    <string name="hint_editText">Введите имя</string>
+</resources>
